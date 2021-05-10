@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Source Code Pro", monospace;
+}
+
+/* Scroll Bar */
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 10px;
+}
+
+.lang {
+  display: flex;
+  justify-content: center;
+}
+
+.lang h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: white;
+  padding: 1%;
+}
+
+.grid-flex {
+  display: flex;
+  background-color: transparent;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.grid-flex img {
+  height: 80px;
+  width: 80px;
+  border: 2px solid black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 9px;
+}
+
+.techstack {
+  margin-top: 20px;
+  padding: 10px;
+  animation: fadein 2s;
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
