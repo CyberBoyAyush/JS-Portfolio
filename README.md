@@ -56,7 +56,7 @@ git push origin [branch_name]
 [![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/cyberboyayush/JS-Portfolio)
 
 # Credits:
-- [Aryan Vikash](https://github.com/aryanvikash) for his wonderful portfolio.
+- [Aryan Vikash](https://github.com/aryanvikash/aryanvikash.com) bhai for his wonderful portfolio repo. (This repo is clone of his repo only but added more Language section and easy to deploy options with a good documented readme.) All code credits goes to him.
 
 # LICENSE📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
